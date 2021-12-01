@@ -10,6 +10,6 @@
 
 # 1 - O que é um repositório?
 
-
+# 2 - O que é commit?
 
 
