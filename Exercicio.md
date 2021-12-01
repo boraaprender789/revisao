@@ -6,6 +6,10 @@
 
 4 - Faça o publish da branch.
 
+5 - Crie no repositório local um arquivo com o nome “revisao.md”, no arquivo você deverá responder as seguintes questões.
+
+# 1 - O que é um repositório?
+
 
 
 
