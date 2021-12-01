@@ -18,4 +18,6 @@
 
 # 5 - O que é clone?
 
+# 6 - O que é pull?
+
 
