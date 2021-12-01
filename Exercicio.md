@@ -14,4 +14,6 @@
 
 # 3 - O que é branch?
 
+# 4 - O que é merge?
+
 
