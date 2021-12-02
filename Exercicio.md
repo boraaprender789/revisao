@@ -20,4 +20,6 @@
 
 # 6 - O que é pull?
 
+# 7 - O que é push?
+
 
