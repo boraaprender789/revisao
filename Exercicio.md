@@ -23,3 +23,16 @@
 # 7 - O que é push?
 
 
+
+# 8 - O que é fork?
+
+# 9 - O que é pull request?
+
+# 10 - O que é VCS?
+
+# 11 - Quais as vantagens de utilizar o VCS?
+
+
+
+
+6 - Faça o push do commit.
